@@ -1,0 +1,3 @@
+Hello there. 
+This is a file for reading. 
+I hope we are learning well. 
